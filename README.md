@@ -12,3 +12,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
 - [Next.js — GitHub](https://github.com/vercel/next.js/)
 - [Next.js — Docs](https://nextjs.org/docs)
+
+## Todos
+
+- [ ] PWA
+- [ ] Deploy
+- [ ] Text box for palabras
+- [ ] API call for Google Custom Search (image)
+- [ ] API call for word in Spanish
+- [ ] API call for example from Twitter
+- [ ] Save words to database
+- [ ] Generate [icons](https://www.simicart.com/manifest-generator.html/)
+
