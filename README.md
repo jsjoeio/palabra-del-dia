@@ -13,9 +13,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [Next.js — GitHub](https://github.com/vercel/next.js/)
 - [Next.js — Docs](https://nextjs.org/docs)
 
+attribution for icon
+<a href="https://www.flaticon.com/free-icons/pig" title="pig icons">Pig icons created by Freepik - Flaticon</a>
+
 ## Todos
 
-- [ ] PWA
+- [x] PWA
 - [ ] Deploy
 - [ ] Text box for palabras
 - [ ] API call for Google Custom Search (image)
